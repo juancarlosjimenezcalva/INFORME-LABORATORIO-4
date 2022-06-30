@@ -93,6 +93,8 @@ Siguiendo el mismo proceso, armamos el circuito físico:
 
 ![image](https://user-images.githubusercontent.com/105565683/176579178-9ba5ec4b-202b-4c27-b90e-3809f81c90b3.png)
 
+![2](https://user-images.githubusercontent.com/105565683/176583953-336c3d81-820c-4851-9a9f-ad50e707b3cf.jpg)
+
 ### MÉTODO DE SUPERPOSICIÓN
 
 ![image](https://user-images.githubusercontent.com/105565683/176579398-0656fb52-24ac-4115-8a5b-84f0128d94a9.png)
