@@ -119,15 +119,19 @@ Siguiendo el mismo proceso, armamos el circuito físico:
 
 ### MEDICIONES DE VOLTAJE Y CORRIENTE
 
-1. Medir el voltaje en VA del circuito con el multímetro.
+1. Medir VA y Ix del circuito total con el multímetro.
 
-![image](https://user-images.githubusercontent.com/105565683/176580047-1e8a2784-5cbb-4d10-b059-9bbf8b2727ac.png)
+![image](https://user-images.githubusercontent.com/105565683/176681768-cd1c4ab7-025b-43b6-b5c1-b5fe9c04c39e.png)
 
-2. Medir la corriente en Ix del circuito con el multímetro.
+2. Medir VA y Ix del circuito con 20 V con el multímetro.
 
-![image](https://user-images.githubusercontent.com/105565683/176581062-fdcfb65c-49ce-466f-a3f6-090d85c5847c.png)
+![image](https://user-images.githubusercontent.com/105565683/176682876-52306f8d-a0b3-4280-ad60-e53edd9f77a3.png)
 
-3. Comparar los resultados obtenidos de voltaje y corriente, en VA Y Ix.
+3. Medir VA y Ix del circuito con 12 V con el multímetro.
+
+![image](https://user-images.githubusercontent.com/105565683/176682650-a285b439-29af-4e26-b732-786855154473.png)
+
+4. Comparar los resultados obtenidos de voltaje y corriente, en VA Y Ix.
 
 Para el circuito físico se utilizaron baterías y pilas para las fuentes de voltaje, siendo de 6 V y 9 V, por ende, existirá una gran diferencia entre los resultados, también se tomarán en cuenta los resultados obtenidos en ambos circuitos del grupo.
 
