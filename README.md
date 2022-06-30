@@ -133,11 +133,11 @@ Para el circuito físico se utilizaron baterías y pilas para las fuentes de vol
 
 Medición de voltaje aplicando superposición.
 
-![image](https://user-images.githubusercontent.com/105565683/176583355-46194c11-14fd-48eb-b19d-69f4e46ae478.png)
+![image](https://user-images.githubusercontent.com/105565683/176675697-2298b330-19b0-4599-8a37-cc6bcdee2e1f.png)
 
 Medición de corriente aplicando superposición.
 
-![image](https://user-images.githubusercontent.com/105565683/176583525-2509ca1d-ffd2-49d3-90a4-27f217a66d88.png)
+![image](https://user-images.githubusercontent.com/105565683/176675747-72cf0896-f3bb-473c-b9ae-eca6ecacb4aa.png)
 
 ### RESULTADOS
 
