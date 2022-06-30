@@ -125,7 +125,7 @@ Siguiendo el mismo proceso, armamos el circuito físico:
 
 2. Medir VA y Ix del circuito con 20 V con el multímetro.
 
-![image](https://user-images.githubusercontent.com/105565683/176682876-52306f8d-a0b3-4280-ad60-e53edd9f77a3.png)
+![image](https://user-images.githubusercontent.com/105565683/176683227-f9e866c2-bf95-433b-908a-d07506339c92.png)
 
 3. Medir VA y Ix del circuito con 12 V con el multímetro.
 
